@@ -1,0 +1,68 @@
+h1{
+font-family: 'Waiting for the Sunrise', cursive;
+  font-size: 100px;
+}
+
+h2{
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  
+}
+
+
+
+ol.a{
+list-style-type: hebrew;
+margin:0 auto;
+}
+
+#container{
+    width:38%;
+    padding:1em;
+    margin:0 auto;
+}
+
+li{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+}
+
+
+p {
+  margin-left: 15em;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p1{
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a{
+  font-family: 'Open Sans', sans-serif;
+}
+
+    a:link,
+a:visited,
+a:active{
+    color: #333333;
+    text-decoration: none;
+}
+
+a:hover{
+  color: #A93226;
+  font-weight: 600;
+}
+
+td {
+ 
+  padding: 75px;
+  cell-padding: 50px;
+  
+  div#cats{
+  margin-left: 25em;
+}
+
+
+  
+}
